@@ -1,6 +1,5 @@
 import N8nIcon from '../assets/logos/N8n-logo.svg?raw';
 import PythonIcon from '../assets/logos/Python-logo.svg?raw';
-import TailwindIcon from '../assets/logos/Tailwind-logo.svg?raw';
 import AnsibleIcon from  '../assets/logos/Ansible-logo.svg?raw';
 
 
