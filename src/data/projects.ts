@@ -4,6 +4,7 @@ import SupabaseIcon from '../assets/logos/Supabase-logo.svg?raw';
 import PosthogIcon from '../assets/logos/posthog-logo.svg?raw';
 import PythonIcon from '../assets/logos/Python-logo.svg?raw';
 import TailwindIcon from '../assets/logos/Tailwind-logo.svg?raw';
+import AnsibleIcon from  '../assets/logos/Ansible-logo.svg?raw';
 
 
 export const projects = [
@@ -16,12 +17,12 @@ export const projects = [
 		icon: N8nIcon
 	},
 	{
-		title: "SaaS API Starter (Auth, Billing, RBAC)",
+		title: "Ansible Playbook Configuration",
 		techStack: "Node.js • TypeScript • PostgreSQL • Supabase • Stripe",
 		description: "Production‑ready REST/GraphQL API with JWT auth, role‑based access, Stripe subscriptions, and rate‑limited endpoints.",
 		ctaText: "Get Source < / >",
 		ctaLink: "#",
-		icon: SupabaseIcon
+		icon: AnsibleIcon
 	},
 	{
 		title: "Realtime Chat Service",
